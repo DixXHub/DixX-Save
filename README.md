@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DixXHub/DixX-Save/main/icon.png" width="120" height="120" alt="DixX Save">
+<img src="https://raw.githubusercontent.com/DixXHub/DixX-Save/main/icon.png" width="200" height="200" alt="DixX Save">
 
 # DixX Save
 
